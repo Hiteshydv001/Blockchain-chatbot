@@ -10,6 +10,9 @@ A chatbot that integrates **Blockchain (Ethereum, Solidity)** and **AI (Gemini L
     └── test.py             # Solidity version test script
 ```
 
+![image](https://github.com/user-attachments/assets/147389ae-86f0-43fd-8a10-df26008e4703)
+
+
 ## 🌟 Features
 - ✅ **AI Chatbot** powered by Google Gemini LLM
 - ✅ **Immutable Chat Logging** using Ethereum blockchain (Ganache)
