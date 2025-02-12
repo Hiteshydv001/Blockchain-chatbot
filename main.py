@@ -88,7 +88,7 @@ def get_chatbot_response(user_message):
 
 # Main chatbot function
 def main():
-    print("Welcome to Blockchain + AI Simple Chatbot")
+    print("Welcome to Blockchain + AI Chatbot")
     print("Type 'exit' or 'quit' to end the chatbot.\n")
     
     while True:
